@@ -241,7 +241,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 null);
 
 //ArrayList for Store Whatsapp Contact
-        ArrayList<String> myWhatsappContacts = new ArrayList<>();
+        List<String> myWhatsappContacts = new ArrayList<>();
 
         if (contactCursor != null) {
             if (contactCursor.getCount() > 0) {
