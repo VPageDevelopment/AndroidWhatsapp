@@ -1,1 +1,1 @@
-include ':app', ':libraries:RootCommands'
+include ':app'

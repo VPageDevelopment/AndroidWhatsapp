@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">TestBackgroundWhatsapp</string>
+    <string name="app_name">Share Info</string>
     <string name="action_settings">Settings</string>
+
+
+
+
+    <!-- Google -->
+    <string name="API_Key">AIzaSyCS-dG_xToExUVoxLqLOR5e5bIGAnMKumE</string>
+    <string name="G_PROJECT_ID">shareinfo-164706</string>
+    <string name="G_PROJECT_NUMBER">291826278785</string>
 </resources>
